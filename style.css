@@ -100,9 +100,9 @@ a {
 	transition: all .3s ease-in-out;
 }
 
-/*#footer-link {
-	color: #f3e7e7;
-}*/
+.footer-bottom p a {
+	color: #fff;
+}
 h1,
 h2,
 h3,
